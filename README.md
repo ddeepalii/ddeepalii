@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Deepali
 - 🌱 I’m currently learning React
-- 📫 How to reach me @ddeepali.punjabi@gmail.com
--                     www.linkedin.com/in/ddeepalii
+- 📫 How to reach me @ddeepali.punjabi@gmail.com OR www.linkedin.com/in/ddeepalii
 - 😄 Pronouns: She/Her
 
 
